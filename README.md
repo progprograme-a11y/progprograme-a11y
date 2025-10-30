@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  ## 👋 Hi, I'm <a href="https://othmanajd-portfolio.vercel.app/" target="_blank">Othman Arejdal</a><img src="https://komarev.com/ghpvc/?username=progprograme-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /><img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+ <strong>👋 Hi, I'm <a href="https://othmanajd-portfolio.vercel.app/" target="_blank">Othman Arejdal</a></strong> <img src="https://komarev.com/ghpvc/?username=progprograme-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
 </p>
 
 <p align="center">
