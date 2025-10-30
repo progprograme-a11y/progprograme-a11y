@@ -10,8 +10,8 @@ I love learning, creating, and turning complex ideas into clean, efficient softw
 
 ## 🚀 About Me
 
-- 💻 Experienced in **Java, spring boot, JEE, Angular, Python, and FastAPI**
-- ☁️ Skilled with **Docker, CI/CD pipelines, and cloud services (AWS, GCP, Azure)**
+- 💻 Experienced in **Java, spring boot, JEE, Angular**
+- ☁️ Skilled with **Docker, CI/CD pipelines, and cloud services**
 - 🧩 Focused on **clean architecture, automation, and performance**
 - 🤝 Strong believer in **team collaboration and Agile values**
 
