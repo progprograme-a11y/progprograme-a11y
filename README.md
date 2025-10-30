@@ -16,6 +16,7 @@ I love learning, creating, and turning complex ideas into clean, efficient softw
 - 🤝 Strong believer in **team collaboration and Agile values**
 
 ---
+## 📈 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=othmanajd&show_icons=true&locale=en&layout=compact" alt="Othman-Arejdal" /></p>
 
