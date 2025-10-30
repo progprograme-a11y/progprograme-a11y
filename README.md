@@ -17,9 +17,11 @@ I love learning, creating, and turning complex ideas into clean, efficient softw
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=othmanajd&show_icons=true&locale=en&layout=compact" alt="othmanajd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=othmanajd&show_icons=true&locale=en&layout=compact" alt="Othman-Arejdal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=othmanajd&show_icons=true&locale=en" alt="othmanajd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=othmanajd&show_icons=true&locale=en" alt="Othman-Arejdal" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=othmanajd" alt="Othman-Arejdal" /></p>
 
 ---
 
