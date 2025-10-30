@@ -17,7 +17,7 @@ I love learning, creating, and turning complex ideas into clean, efficient softw
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zh3212&show_icons=true&locale=en&layout=compact" alt="zh3212" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=othmanajd&show_icons=true&locale=en&layout=compact" alt="othmanajd" /></p>
 
 ---
 
