@@ -24,6 +24,13 @@ I love learning, creating, and turning complex ideas into clean, efficient softw
 
 <p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=othmanajd" alt="Othman-Arejdal" /></p>
 
+## 📈 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=othmanajd&theme=radical&hide_border=true)
+![Othman's GitHub stats](https://github-readme-stats.vercel.app/api?username=othmanajd&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othmanajd&layout=compact&theme=radical)
+
+
 ---
 
 ## 🌐 Connect with Me:
