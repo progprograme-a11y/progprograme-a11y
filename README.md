@@ -17,6 +17,10 @@ I love learning, creating, and turning complex ideas into clean, efficient softw
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zh3212&show_icons=true&locale=en&layout=compact" alt="zh3212" /></p>
+
+---
+
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othman-arejdal/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?&logoColor=white&logo=github)](https://github.com/othmanajd)
