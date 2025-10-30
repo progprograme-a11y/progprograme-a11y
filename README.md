@@ -21,7 +21,7 @@ I love learning, creating, and turning complex ideas into clean, efficient softw
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othman-arejdal/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?&logoColor=white&logo=github)](https://github.com/othmanajd)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:arejdal.othman2@gmail.com)
-[![X (Twitter)](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://wa.me/212606089385)
+[![X (Twitter)](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/othman_ajd)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/212606089385)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/othman.ajd/)
 
