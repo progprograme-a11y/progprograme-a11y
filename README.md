@@ -19,15 +19,8 @@ I love learning, creating, and turning complex ideas into clean, efficient softw
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othman-arejdal/) 
-[![GitHub](https://img.shields.io/badge/GitHub-othmanajd-black?&logoColor=white&logo=github)](https://github.com/othmanajd)
+[![GitHub](https://img.shields.io/badge/GitHub-black?&logoColor=white&logo=github)](https://github.com/othmanajd)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:arejdal.othman2@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/212606089385)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/othman.ajd/)
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Othman%20Arejdal-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othman-arejdal/)  
-[![GitHub](https://img.shields.io/badge/GitHub-othmanajd-181717?logo=github&logoColor=white)](https://github.com/othmanajd)  
-[![Gmail](https://img.shields.io/badge/Gmail-arejdal.othman2%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:arejdal.othman2@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B212606089385-25D366?logo=whatsapp&logoColor=white)](https://wa.me/212606089385)  
-[![Instagram](https://img.shields.io/badge/Instagram-othman.ajd-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/othman.ajd/)
