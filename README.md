@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Othman Arejdal
 
-<!--
-**progprograme-a11y/progprograme-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast**
 
-Here are some ideas to get you started:
+I’m passionate about building **scalable web applications** and **cloud-powered solutions** that solve real-world problems.  
+I love learning, creating, and turning complex ideas into clean, efficient software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Experienced in **Java, Angular, Python, and FastAPI**
+- ☁️ Skilled with **Docker, CI/CD pipelines, and cloud services (AWS, GCP, Azure)**
+- 🧩 Focused on **clean architecture, automation, and performance**
+- 🤝 Strong believer in **team collaboration and Agile values**
+
+---
+
+## 💼 Professional Experience
+
+### **Software Engineer @ Bhigh Group (2025)**
+Integrated telephony services into the Debforce platform, enabling agents to make direct calls through the app.  
+_**Tech:** Symfony, Angular, MySQL, SIP, Asterisk_
+
+### **Software Engineer @ Orange Morocco (2025)**
+Developed **ODC Scraper**, a tool for automated tech trend monitoring.  
+_**Tech:** FastAPI, Spring Boot, Angular, Docker, Kafka, PostgreSQL_
+
+### **Software Engineer @ 3D Smart Factory (2024)**
+Built an **AI-driven recruitment platform** t
