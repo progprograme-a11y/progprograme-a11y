@@ -18,7 +18,7 @@ I love learning, creating, and turning complex ideas into clean, efficient softw
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othman-arejdal/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Othman%20Arejdal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/othman-arejdal/)  
 [![GitHub](https://img.shields.io/badge/GitHub-othmanajd-black?&logoColor=white&logo=github)](https://github.com/othmanajd)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:arejdal.othman2@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/212606089385)
