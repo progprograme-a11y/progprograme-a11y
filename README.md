@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&font=Fira%20Code&center=true&width=1000&height=50&color=3c4b78&vCenter=true&pause=1000&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&font=Fira%20Code&center=true&width=1000&height=50&color=1E90FF&vCenter=true&pause=1000&size="26" />
 </p>
 
 
