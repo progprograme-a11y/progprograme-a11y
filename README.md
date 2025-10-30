@@ -1,7 +1,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-# 👋 Hi, I'm Othman Arejdal
-
+# 👋 Hi, I'm  <a href="https://othmanajd-portfolio.vercel.app/" target="_blank"> Othman Arejdal </a>
 🎯 **Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast**
 
 I’m passionate about building **scalable web applications** and **cloud-powered solutions** that solve real-world problems.  
