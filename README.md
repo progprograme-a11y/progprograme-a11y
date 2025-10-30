@@ -17,15 +17,8 @@ I love learning, creating, and turning complex ideas into clean, efficient softw
 
 ---
 
-## 💼 Professional Experience
-
-### **Software Engineer @ Bhigh Group (2025)**
-Integrated telephony services into the Debforce platform, enabling agents to make direct calls through the app.  
-_**Tech:** Symfony, Angular, MySQL, SIP, Asterisk_
-
-### **Software Engineer @ Orange Morocco (2025)**
-Developed **ODC Scraper**, a tool for automated tech trend monitoring.  
-_**Tech:** FastAPI, Spring Boot, Angular, Docker, Kafka, PostgreSQL_
-
-### **Software Engineer @ 3D Smart Factory (2024)**
-Built an **AI-driven recruitment platform** t
+## 🌐 Connect with Me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abdelhamidmouloudi2003@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/212682276750)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelhamid--mouloudi) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mouloudiabdelhamid)
