@@ -1,8 +1,17 @@
-<img align="center" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" />
+</p>
 
-## 👋 Hi, I'm <a href="https://othmanajd-portfolio.vercel.app/" target="_blank">Othman Arejdal</a> <img src="https://komarev.com/ghpvc/?username=progprograme-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+<p align="center">
+  ## 👋 Hi, I'm <a href="https://othmanajd-portfolio.vercel.app/" target="_blank">Othman Arejdal</a> 
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=progprograme-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&font=Fira%20Code&center=true&width=1000&height=50&color=f75c7e&vCenter=true&pause=1000&size=24" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&font=Fira%20Code&center=true&width=1000&height=50&color=f75c7e&vCenter=true&pause=1000&size=24" />
+</p>
 
 
 
